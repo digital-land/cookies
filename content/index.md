@@ -45,6 +45,5 @@ Google Analytics sets the following cookies.
 | _gid | This helps us count how many people visit UK by tracking if you’ve visited before | 24 hours |
 | _gat | Used to manage the rate at which page view requests are made | 10 minutes |
 
-
 ::: inset You can [opt out of Google Analytics cookies](https://tools.google.com/dlpage/gaoptout).
 :::
