@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "prestart": "mkdir -p docs/ && node content-frontend/compilers/content.js",
+    "prestart": "mkdir -p docs/ && node content-frontend/compilers/content.js && node content-frontend/compilers/sitemap.js",
     "start": "node server.js"
   },
   "repository": {
